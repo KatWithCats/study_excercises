@@ -1,0 +1,114 @@
+{
+  "fylker": [
+{
+"navn": "Fjellsjøkampen",
+"fylke": "Akershus",
+"høyde": 812
+},
+{
+"navn": "Folarskardnuten",
+"fylke": "Buskerud",
+"høyde": 1933
+},
+{
+  "navn": "Galdhøpiggen",
+  "fylke": "Oppland",
+  "høyde": 2469
+
+},
+
+{
+  "navn": "Gaustatoppen",
+  "fylke": "Telemark",
+  "høyde": 1883
+
+},
+
+{
+  "navn": "Hardangerjøkulen",
+  "fylke": "Hordaland",
+  "høyde": 1861
+
+},
+
+{
+  "navn": "Jetnamsklumpen",
+  "fylke": "Nord-Trøndelag",
+  "høyde": 1512
+
+},
+
+{
+  "navn": "Jiehkkevárri",
+  "fylke": "Troms",
+  "høyde": 1834
+},
+
+{
+  "navn": "Kjerkeberget",
+  "fylke": "Oslo",
+  "høyde": 630
+},
+
+
+{
+  "navn": "Oksskolten",
+  "fylke": "Nordland",
+  "høyde": 1915
+
+
+},
+
+{
+  "navn": "Pyttegga",
+  "fylke": "Møre og Romsdal",
+  "høyde": 1999
+},
+{
+  "navn": "Rondslottet",
+"fylke": "Hedmark",
+"høyde": 2178
+},
+{
+  "navn": "Slavasshøgda",
+"fylke": "Østfold",
+"høyde": 336
+},
+{
+  "navn": "Store Skagastølstinden",
+  "fylke": "Sogn og Fjordane",
+  "høyde": 2405
+},
+{
+  "navn": "Storskrymten",
+  "fylke": "Sør-Trøndelag",
+  "høyde": 1985
+},
+{
+  "navn": "Sæbyggjenuten",
+  "fylke": "Aust-Agder",
+  "høyde": 1507
+},
+{
+  "navn": "Urdalsknuten",
+  "fylke": "Vest-Agder",
+  "høyde": 1433
+},
+{
+  "navn": "Vassdalseggi",
+  "fylke": "Rogaland",
+  "høyde": 1658
+},
+{
+  "navn": "Vestfjellet",
+  "fylke": "Vestfold",
+  "høyde": 634
+},
+{
+"navn": "Øksfjordjøkelen",
+"fylke": "Finnmark",
+"høyde": 1191
+}
+]
+
+}
